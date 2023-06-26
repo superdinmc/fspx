@@ -1,0 +1,12 @@
+{
+  "name": "fspx",
+  "version": "1.0.0",
+  "description": "node:fs but chained proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "superdinmc",
+  "license": "ISC"
+}
